@@ -75,15 +75,22 @@ technical systems with business impact.
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase,sqlite,prisma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase,sqlite&theme=dark"/>
 
 **Cloud, DevOps & Tooling**
 
 <img src="https://skillicons.dev/icons?i=gcp,azure,git,github,githubactions,vscode,arduino&theme=dark"/>
+
+**AI Dev Tools & Agentic CLI**
+
+<img src="https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20Code-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCode-6D28D9?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-5B21B6?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
 ---
 
