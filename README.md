@@ -75,11 +75,11 @@ technical systems with business impact.
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase,sqlite,prisma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase,sqlite&theme=dark"/>
 
 **Cloud, DevOps & Tooling**
 
