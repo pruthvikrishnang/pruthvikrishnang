@@ -83,7 +83,7 @@ technical systems with business impact.
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=gcp,azure,git,github,githubactions,vscode,arduino,antigravity,claudecode,OpenCode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=gcp,azure,git,github,githubactions,vscode,arduino&theme=dark"/>
 
 ---
 
